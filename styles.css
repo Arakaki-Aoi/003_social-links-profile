@@ -1,5 +1,30 @@
 body {
- background-color: #141414 ;
+    background-color: #141414 ;
+    color: #FFF;
+}
+.cards {
+    background-color: #1F1F1F;
+    width: 384px;
+    height: 611px;
+    
+}
+
+.button {
+    background-color: #2A2A2A;
+    color: #FFF;
+    width: 304px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    margin: 16px 0;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.cards h2 {
+    color: #C4F82A;
 }
 
 /* Feel free to remove these styles or customise in your own stylesheet 👍 */
